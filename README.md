@@ -41,3 +41,8 @@ I have created the DynamoDB table, the first iteration of Lambda functions and t
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/ZW0vcMv/screen-2.jpg)
+
+## Project repositories
+
+Frontend:https://github.com/SchoolOfCode/final-project_front-end-jenga   
+Backend: https://github.com/SchoolOfCode/final-project_back-end-jenga
