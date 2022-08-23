@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Finders Keepers by JENGA</h1>
 
-## 
 
 ## How the App Started    
 
